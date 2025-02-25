@@ -26,47 +26,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="<img width="587" alt="image" src="https://github.com/mercierguy913/osticket-prereqs/assets/143959577/00edcc50-1f68-44fc-a590-1d560643276b">
-"/>
-</p>
-<p>
+
 The first thing you need to do is go to azure.mircosoft.com and sign up for an mircosoft azure account. One helpful tip is if you sign up for the start with 200 azure credit you will be able to use that instead of using using you money until the credits have ran out or it has been 30 days.
 </p>
 <br />
 
-<p>
-<img src="<img width="544" alt="image" src="https://github.com/mercierguy913/osticket-prereqs/assets/143959577/4c1d8307-cb47-4474-b3c6-92200e768f0a">
-">
-"/>
-</p>
-<p>
+![image](https://github.com/user-attachments/assets/2fcdd9b8-0b81-4636-8eb6-7ff3e6031dad)
+
 After you have signed up for it and when through the steps and can now log in through going to portal.azure.com and you will be at your home page.
 </p>
 <br />
 
 ![Screenshot 2025-02-24 175036](https://github.com/user-attachments/assets/f3f110cd-c226-47e5-a141-701526ba5005)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Now that you are in the home page what you do now is go to the top where it says Virtual Machines and you click on that link. After that you would set up for it to be on window 10 from the dropbox and make sure you have at least 2-4 vcpu so the VM is not slow then click on the bottom link until you create you new VM.
+
+Now that you are on the home page what you do now is go to the top where it says Virtual Machines and you click on that link. After that, you would set up for it to be on Windows 10 from the dropbox and make sure you have at least 2-4 vcpu so the VM is not slow then click on the bottom link until you create your new VM. Don't forget to click the box that talks about licensing. It may take a few minutes for Azure to prepare and create everything just be patient. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-In order to use your newly created Virtual Machine you will have to remote in through the computer you are currently using. If you are on windows just go to your search bar and type remote desktop connection. A window should come up for you and then go back to your azure account and click on the Vm you just created to get your public ip address that is what will be used to remote into the VM. Use the username and password you created for the VM.
+![image](https://github.com/user-attachments/assets/8e90e95e-ca31-4b0d-8244-312e72a5b735)
+
+
+In order to use your newly created Virtual Machine you will have to remote in through the computer you are currently using. If you are on Windows just go to your search bar and type remote desktop connection. A window should come up for you and then go back to your azure account and click on the VM you just created to get your public IP address which is what will be used to remote into the VM. Use the username and password you created for the VM. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![image](https://github.com/user-attachments/assets/1a11651b-74c3-4f7e-926e-025ed7556ca9)
+
+
 Install / Enable IIS in Windows WITH
 CGI and Common HTTP Features
 World Wide Web Services -> Application Development Features ->
