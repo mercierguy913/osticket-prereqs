@@ -54,11 +54,14 @@ In order to use your newly created Virtual Machine you will have to remote in th
 ![image](https://github.com/user-attachments/assets/1a11651b-74c3-4f7e-926e-025ed7556ca9)
 
 
-Install / Enable IIS in Windows WITH
-CGI and Common HTTP Features
+Go to Control Panel > Programs> IIS and check the boxes web management, www services, application development features
+Common HTTP Features, Health and Diagnostics, Performance Features and Security
+CGI 
 World Wide Web Services -> Application Development Features ->
 [X] CGI
-[X] Common HTTP Features
+[X] Under Common HTTP Features check
+Default Document, Directory Browsing, HTTP errors, Static Content, HTTP Redirection, WebDAV Publishing
+
 AND IIS Management Console
 Internet Information Services -> Web Management Tools -> IIS Management Console
 	[X] IIS Management Console
