@@ -45,6 +45,8 @@ After you have signed up for it and when through the steps and can now log in th
 </p>
 <br />
 
+![Screenshot 2025-02-24 175036](https://github.com/user-attachments/assets/f3f110cd-c226-47e5-a141-701526ba5005)
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
